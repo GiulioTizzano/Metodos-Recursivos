@@ -1,0 +1,4 @@
+¿Qué es un método recursivo?
+
+El método recursivo es la definición de una función que se llama a sí misma y deja de 
+llamarse cuando se cumple la condición de parada. 
